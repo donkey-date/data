@@ -4,24 +4,20 @@
     "name": "Alice",
     "age": 28,
     "gender": "female",
-    "description": "I love bike rides",
-    "imageUrl": "https://your-cdn.com/images/alice.jpg",
+    "description": "I like men with their ducks in a row.",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png",
     "services": [
       {
         "meetingType": "audio",
-        "pricePerHour": 2000,
+        "pricePerHour": 20000,
         "currency": "KRW"
       },
       {
         "meetingType": "inPerson",
-        "pricePerHour": 3500,
+        "pricePerHour": 60000,
         "currency": "KRW"
       }
     ],
-    "location": {
-      "latitude": 37.5665,
-      "longitude": 126.978
-    },
     "availability": [
       {
         "day": "mon",
@@ -36,11 +32,11 @@
     "age": 22,
     "gender": "female",
     "description": "Let's get some coffee together.",
-    "imageUrl": "https://your-cdn.com/images/bob.jpg",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-2.png",
     "services": [
       {
         "meetingType": "video",
-        "pricePerHour": 2500,
+        "pricePerHour": 50000,
         "currency": "KRW"
       }
     ],
@@ -60,28 +56,28 @@
         "end": { "hour": 14, "minute": 30 }
       }
     ]
-  }
+  },
   {
-    "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834",
+    "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734",
     "name": "Brianna",
     "age": 25,
     "gender": "female",
     "description": "I like fast cars and steady hands.",
-    "imageUrl": "https://your-cdn.com/images/bob.jpg",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-3.png",
     "services": [
-        {
-            "meetingType": "audio",
-            "pricePerHour": 2000,
-            "currency": "KRW"
-        },
+      {
+        "meetingType": "audio",
+        "pricePerHour": 40000,
+        "currency": "KRW"
+      },
       {
         "meetingType": "video",
-        "pricePerHour": 2500,
+        "pricePerHour": 50000,
         "currency": "KRW"
       },
       {
         "meetingType": "inPerson",
-        "pricePerHour": 2000,
+        "pricePerHour": 60000,
         "currency": "KRW"
       }
     ],
@@ -90,6 +86,11 @@
       "longitude": 126.978
     },
     "availability": [
+      {
+        "day": "sat",
+        "start": { "hour": 8, "minute": 0 },
+        "end": { "hour": 9, "minute": 0 }
+      },
       {
         "day": "sat",
         "start": { "hour": 11, "minute": 0 },
