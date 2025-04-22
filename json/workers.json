@@ -18,6 +18,10 @@
         "currency": "KRW"
       }
     ],
+    "location": {
+      "latitude": 37.5665,
+      "longitude": 126.978
+    },
     "availability": [
       {
         "day": "mon",
