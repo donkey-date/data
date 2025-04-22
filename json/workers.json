@@ -5,7 +5,7 @@
     "age": 28,
     "gender": "female",
     "description": "I like men with their ducks in a row.",
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png?raw=true",
     "services": [
       {
         "meetingType": "audio",
@@ -36,7 +36,7 @@
     "age": 22,
     "gender": "female",
     "description": "Let's get some coffee together.",
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-2.png",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-2.png?raw=true",
     "services": [
       {
         "meetingType": "video",
@@ -67,7 +67,7 @@
     "age": 25,
     "gender": "female",
     "description": "I like fast cars and steady hands.",
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-3.png",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-3.png?raw=true",
     "services": [
       {
         "meetingType": "audio",
