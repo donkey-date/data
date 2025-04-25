@@ -8,11 +8,13 @@
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png?raw=true",
     "services": [
       {
+        "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-s0",
         "meetingType": "audio",
         "pricePerHour": 20000,
         "currency": "KRW"
       },
       {
+        "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-s1",
         "meetingType": "inPerson",
         "pricePerHour": 60000,
         "currency": "KRW"
@@ -40,6 +42,7 @@
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-2.png?raw=true",
     "services": [
       {
+        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834-s0",
         "meetingType": "video",
         "pricePerHour": 50000,
         "currency": "KRW"
@@ -73,16 +76,19 @@
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-3.png?raw=true",
     "services": [
       {
+        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-s0",
         "meetingType": "audio",
         "pricePerHour": 40000,
         "currency": "KRW"
       },
       {
+        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-s1",
         "meetingType": "video",
         "pricePerHour": 50000,
         "currency": "KRW"
       },
       {
+        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-s3",
         "meetingType": "inPerson",
         "pricePerHour": 60000,
         "currency": "KRW"
