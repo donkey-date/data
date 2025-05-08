@@ -24,6 +24,8 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
+    "city": "seoul",
+    "nation": "south korea",
     "availability": [
       {
         "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-0",
@@ -52,6 +54,8 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
+    "city": "seoul",
+    "nation": "south korea",
     "availability": [
       {
         "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834-0",
@@ -98,6 +102,8 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
+    "city": "seoul",
+    "nation": "south korea",
     "availability": [
       {
         "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-0",
