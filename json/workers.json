@@ -1,22 +1,22 @@
 [
   {
     "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d",
-    "name": "Alice",
-    "age": 28,
+    "name": "유정아",
+    "age": 24,
     "gender": "female",
-    "description": "I like men with their ducks in a row.",
+    "description": "안녕하세요! 저는 24살 직장인이고 서울 양천구에 살고 있어요. 새로운 사람들을 만나는 것을 즐기는 타입이라 첫 데이트도 어색함 없이 잘 리드할 수 있는 장점이 있답니다. 반려동물 산책을 같이 시키거나, 영화를 관람하는 걸 좋아해요. 함께 보드게임 카페에 가서 시간을 보내는 것도 좋아하는 취미 중 하나에요.",
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png?raw=true",
     "services": [
       {
         "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-s0",
         "meetingType": "audio",
-        "pricePerHour": 20000,
+        "pricePerHour": 15000,
         "currency": "KRW"
       },
       {
         "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-s1",
         "meetingType": "inPerson",
-        "pricePerHour": 60000,
+        "pricePerHour": 30000,
         "currency": "KRW"
       }
     ],
@@ -24,7 +24,7 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
-    "city": "seoul",
+    "city": "서울",
     "nation": "south korea",
     "availability": [
       {
