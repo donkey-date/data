@@ -45,7 +45,7 @@
     "services": [
       {
         "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834-s0",
-        "meetingType": "video",
+        "meetingType": "inPerson",
         "pricePerHour": 50000,
         "currency": "KRW"
       }
