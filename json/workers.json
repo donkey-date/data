@@ -5,6 +5,13 @@
     "age": 24,
     "gender": "female",
     "description": "안녕하세요! 저는 24살 직장인이고 서울 양천구에 살고 있어요. 새로운 사람들을 만나는 것을 즐기는 타입이라 첫 데이트도 어색함 없이 잘 리드할 수 있는 장점이 있답니다. 반려동물 산책을 같이 시키거나, 영화를 관람하는 걸 좋아해요. 함께 보드게임 카페에 가서 시간을 보내는 것도 좋아하는 취미 중 하나에요.",
+    "characteristics": [
+      "웃는 게 이뻐요",
+      "깨끗한 피부",
+      "애교가 많아요",
+      "INFJ",
+      "ENTK"
+    ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png?raw=true",
     "services": [
       {
@@ -41,6 +48,13 @@
     "age": 22,
     "gender": "female",
     "description": "Let's get some coffee together.",
+    "characteristics": [
+      "웃는 게 이뻐요",
+      "깨끗한 피부",
+      "애교가 많아요",
+      "INFJ",
+      "ENTK"
+    ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-2.png?raw=true",
     "services": [
       {
@@ -77,6 +91,13 @@
     "age": 25,
     "gender": "female",
     "description": "I like fast cars and steady hands.",
+    "characteristics": [
+      "웃는 게 이뻐요",
+      "깨끗한 피부",
+      "애교가 많아요",
+      "INFJ",
+      "ENTK"
+    ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-3.png?raw=true",
     "services": [
       {
@@ -131,6 +152,13 @@
     "age": 25,
     "gender": "male",
     "description": "I like fast cars and steady hands.",
+    "characteristics": [
+      "웃는 게 이뻐요",
+      "깨끗한 피부",
+      "애교가 많아요",
+      "INFJ",
+      "ENTK"
+    ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/men/man-1.png?raw=true",
     "services": [
       {
@@ -185,6 +213,13 @@
     "age": 35,
     "gender": "male",
     "description": "I love you.",
+    "characteristics": [
+      "웃는 게 이뻐요",
+      "깨끗한 피부",
+      "애교가 많아요",
+      "INFJ",
+      "ENTK"
+    ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/men/man-2.png?raw=true",
     "services": [
       {
@@ -239,6 +274,13 @@
     "age": 18,
     "gender": "male",
     "description": "I like teddy bears.",
+    "characteristics": [
+      "웃는 게 이뻐요",
+      "깨끗한 피부",
+      "애교가 많아요",
+      "INFJ",
+      "ENTK"
+    ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/men/man-3.png?raw=true",
     "services": [
       {
