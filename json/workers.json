@@ -44,10 +44,10 @@
   },
   {
     "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834",
-    "name": "Daisy",
+    "name": "김나현",
     "age": 22,
     "gender": "female",
-    "description": "Let's get some coffee together.",
+    "description": "카페에서 책 읽는 걸 좋아하고 조용한 분위기에서 대화하는 걸 즐겨요. 친해지면 장난도 잘 치는 편이에요. 새로운 사람을 만나는 걸 설레는 경험으로 생각합니다. 주말엔 한강에서 산책하는 걸 자주 해요.",
     "characteristics": [
       "웃는 게 이뻐요",
       "깨끗한 피부",
@@ -87,10 +87,10 @@
   },
   {
     "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734",
-    "name": "Brianna",
+    "name": "최서윤",
     "age": 25,
     "gender": "female",
-    "description": "I like fast cars and steady hands.",
+    "description": "활동적인 걸 좋아해서 등산이나 자전거 타기를 자주 해요. 밝고 긍정적인 에너지로 주변 사람들을 웃게 만드는 걸 좋아합니다. 낯선 사람과도 금방 친해지는 성격이에요.",
     "characteristics": [
       "웃는 게 이뻐요",
       "깨끗한 피부",
@@ -148,10 +148,10 @@
   },
   {
     "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342",
-    "name": "Joe",
-    "age": 25,
+    "name": "이준호",
+    "age": 26,
     "gender": "male",
-    "description": "I like fast cars and steady hands.",
+    "description": "편안한 대화를 통해 서로를 알아가는 시간을 소중히 여겨요. 음악을 좋아하고, 요즘은 아날로그 감성이 느껴지는 LP 듣기에 빠져 있어요. 진지한 이야기부터 가벼운 농담까지 다 좋아합니다.",
     "characteristics": [
       "웃는 게 이뻐요",
       "깨끗한 피부",
@@ -209,10 +209,10 @@
   },
   {
     "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds",
-    "name": "Ron",
+    "name": "박지훈",
     "age": 35,
     "gender": "male",
-    "description": "I love you.",
+    "description": "삶의 다양한 이야기를 나누는 걸 좋아해요. 따뜻한 분위기 속에서 상대방을 배려하는 편이고, 진심 어린 소통을 중요하게 생각합니다. 커피 한 잔 하며 편하게 이야기 나누고 싶어요.",
     "characteristics": [
       "웃는 게 이뻐요",
       "깨끗한 피부",
@@ -270,10 +270,10 @@
   },
   {
     "id": "sdfdsf-7e32-4c14-dsfds-hthtt",
-    "name": "James",
+    "name": "정태영",
     "age": 18,
     "gender": "male",
-    "description": "I like teddy bears.",
+    "description": "부끄러움이 많지만 친해지면 수다쟁이로 변해요! 게임 좋아하고 귀여운 캐릭터를 좋아하는 편이에요. 데이트보다는 친구처럼 편하게 이야기 나누는 걸 선호해요.",
     "characteristics": [
       "웃는 게 이뻐요",
       "깨끗한 피부",
