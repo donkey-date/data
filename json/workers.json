@@ -1,27 +1,24 @@
 [
   {
-    "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d",
-    "name": "유정아",
+    "id": 1,
+    "name": "???",
     "age": 24,
     "gender": "female",
-    "description": "안녕하세요! 저는 24살 직장인이고 서울 양천구에 살고 있어요. 새로운 사람들을 만나는 것을 즐기는 타입이라 첫 데이트도 어색함 없이 잘 리드할 수 있는 장점이 있답니다. 반려동물 산책을 같이 시키거나, 영화를 관람하는 걸 좋아해요. 함께 보드게임 카페에 가서 시간을 보내는 것도 좋아하는 취미 중 하나에요.",
+    "description": "?????! ???",
     "characteristics": [
-      "차분한 목소리",
-      "반려동물 애호가",
-      "리드 잘함",
-      "초면에도 밝은 성격",
-      "감정 공감 능력 높음"
+      "??? ???",
+      "???? ???"
     ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-1.png?raw=true",
+    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/female/woman-1.png?raw=true",
     "services": [
       {
-        "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-s0",
+        "id": "1-s0",
         "meetingType": "audio",
         "pricePerHour": 15000,
         "currency": "KRW"
       },
       {
-        "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-s1",
+        "id": "1-s1",
         "meetingType": "inPerson",
         "pricePerHour": 30000,
         "currency": "KRW"
@@ -31,289 +28,20 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
-    "city": "서울",
+    "city": "seoul",
     "nation": "south korea",
     "availability": [
       {
-        "id": "61d1d67e-e42b-47db-9fd0-dbd7a63ece2d-0",
+        "id": "1-0",
         "day": "mon",
-        "start": { "hour": 17, "minute": 0 },
-        "end": { "hour": 19, "minute": 0 }
-      }
-    ]
-  },
-  {
-    "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834",
-    "name": "김나현",
-    "age": 22,
-    "gender": "female",
-    "description": "카페에서 책 읽는 걸 좋아하고 조용한 분위기에서 대화하는 걸 즐겨요. 친해지면 장난도 잘 치는 편이에요. 새로운 사람을 만나는 걸 설레는 경험으로 생각합니다. 주말엔 한강에서 산책하는 걸 자주 해요.",
-    "characteristics": [
-      "문학소녀 스타일",
-      "잔잔한 유머",
-      "고양이상",
-      "한강 산책러",
-      "잔잔한 대화 선호"
-    ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-2.png?raw=true",
-    "services": [
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834-s0",
-        "meetingType": "inPerson",
-        "pricePerHour": 50000,
-        "currency": "KRW"
-      }
-    ],
-    "location": {
-      "latitude": 37.5665,
-      "longitude": 126.978
-    },
-    "city": "seoul",
-    "nation": "south korea",
-    "availability": [
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834-0",
-        "day": "wed",
-        "start": { "hour": 11, "minute": 0 },
-        "end": { "hour": 15, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4b2b834-1",
-        "day": "thu",
-        "start": { "hour": 10, "minute": 0 },
-        "end": { "hour": 14, "minute": 30 }
-      }
-    ]
-  },
-  {
-    "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734",
-    "name": "최서윤",
-    "age": 25,
-    "gender": "female",
-    "description": "활동적인 걸 좋아해서 등산이나 자전거 타기를 자주 해요. 밝고 긍정적인 에너지로 주변 사람들을 웃게 만드는 걸 좋아합니다. 낯선 사람과도 금방 친해지는 성격이에요.",
-    "characteristics": [
-      "에너지 넘침",
-      "운동 좋아함",
-      "금방 친해짐",
-      "명랑함",
-      "활동적인 데이트 선호"
-    ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/women/woman-3.png?raw=true",
-    "services": [
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-s0",
-        "meetingType": "audio",
-        "pricePerHour": 40000,
-        "currency": "KRW"
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-s1",
-        "meetingType": "video",
-        "pricePerHour": 50000,
-        "currency": "KRW"
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-s3",
-        "meetingType": "inPerson",
-        "pricePerHour": 60000,
-        "currency": "KRW"
-      }
-    ],
-    "location": {
-      "latitude": 37.5665,
-      "longitude": 126.978
-    },
-    "city": "seoul",
-    "nation": "south korea",
-    "availability": [
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-0",
-        "day": "sat",
-        "start": { "hour": 8, "minute": 0 },
-        "end": { "hour": 9, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-1",
-        "day": "sat",
-        "start": { "hour": 11, "minute": 0 },
-        "end": { "hour": 15, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y734-2",
-        "day": "sun",
-        "start": { "hour": 10, "minute": 0 },
-        "end": { "hour": 14, "minute": 30 }
-      }
-    ]
-  },
-  {
-    "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342",
-    "name": "이준호",
-    "age": 26,
-    "gender": "male",
-    "description": "편안한 대화를 통해 서로를 알아가는 시간을 소중히 여겨요. 음악을 좋아하고, 요즘은 아날로그 감성이 느껴지는 LP 듣기에 빠져 있어요. 진지한 이야기부터 가벼운 농담까지 다 좋아합니다.",
-    "characteristics": [
-      "진지한 성격",
-      "아날로그 감성",
-      "감성 대화 선호",
-      "음악 덕후",
-      "말수 적지만 깊은 사람"
-    ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/men/man-1.png?raw=true",
-    "services": [
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342-s0",
-        "meetingType": "audio",
-        "pricePerHour": 40000,
-        "currency": "KRW"
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342-s1",
-        "meetingType": "video",
-        "pricePerHour": 50000,
-        "currency": "KRW"
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342-s3",
-        "meetingType": "inPerson",
-        "pricePerHour": 60000,
-        "currency": "KRW"
-      }
-    ],
-    "location": {
-      "latitude": 37.5665,
-      "longitude": 126.978
-    },
-    "city": "seoul",
-    "nation": "south korea",
-    "availability": [
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342-0",
-        "day": "sat",
-        "start": { "hour": 8, "minute": 0 },
-        "end": { "hour": 9, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342-1",
-        "day": "sat",
-        "start": { "hour": 11, "minute": 0 },
-        "end": { "hour": 15, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-aa10-4ed2e4c4y342-2",
-        "day": "sun",
-        "start": { "hour": 10, "minute": 0 },
-        "end": { "hour": 14, "minute": 30 }
-      }
-    ]
-  },
-  {
-    "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds",
-    "name": "박지훈",
-    "age": 35,
-    "gender": "male",
-    "description": "삶의 다양한 이야기를 나누는 걸 좋아해요. 따뜻한 분위기 속에서 상대방을 배려하는 편이고, 진심 어린 소통을 중요하게 생각합니다. 커피 한 잔 하며 편하게 이야기 나누고 싶어요.",
-    "characteristics": [
-      "성숙한 분위기",
-      "배려심 많음",
-      "인생 경험 풍부",
-      "카페 마니아",
-      "감정 소통 중시"
-    ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/men/man-2.png?raw=true",
-    "services": [
-      {
-        "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds-s0",
-        "meetingType": "audio",
-        "pricePerHour": 40000,
-        "currency": "KRW"
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds-s1",
-        "meetingType": "video",
-        "pricePerHour": 50000,
-        "currency": "KRW"
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds-s3",
-        "meetingType": "inPerson",
-        "pricePerHour": 60000,
-        "currency": "KRW"
-      }
-    ],
-    "location": {
-      "latitude": 37.5665,
-      "longitude": 126.978
-    },
-    "city": "seoul",
-    "nation": "south korea",
-    "availability": [
-      {
-        "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds-0",
-        "day": "sat",
-        "start": { "hour": 8, "minute": 0 },
-        "end": { "hour": 9, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds-1",
-        "day": "sat",
-        "start": { "hour": 11, "minute": 0 },
-        "end": { "hour": 15, "minute": 0 }
-      },
-      {
-        "id": "b1e8cf12-7e32-4c14-dsfds-sdkflsdfds-2",
-        "day": "sun",
-        "start": { "hour": 10, "minute": 0 },
-        "end": { "hour": 14, "minute": 30 }
-      }
-    ]
-  },
-  {
-    "id": "sdfdsf-7e32-4c14-dsfds-hthtt",
-    "name": "정태영",
-    "age": 18,
-    "gender": "male",
-    "description": "부끄러움이 많지만 친해지면 수다쟁이로 변해요! 게임 좋아하고 귀여운 캐릭터를 좋아하는 편이에요. 데이트보다는 친구처럼 편하게 이야기 나누는 걸 선호해요.",
-    "characteristics": [
-      "내향적",
-      "게임 덕후",
-      "귀여운 취향",
-      "부끄럼 많음",
-      "친근한 성격"
-    ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/men/man-3.png?raw=true",
-    "services": [
-      {
-        "id": "sdfdsf-7e32-4c14-dsfds-hthtt-s1",
-        "meetingType": "video",
-        "pricePerHour": 50000,
-        "currency": "KRW"
-      },
-      {
-        "id": "sdfdsf-7e32-4c14-dsfds-hthtt-s3",
-        "meetingType": "inPerson",
-        "pricePerHour": 60000,
-        "currency": "KRW"
-      }
-    ],
-    "location": {
-      "latitude": 37.5665,
-      "longitude": 126.978
-    },
-    "city": "seoul",
-    "nation": "south korea",
-    "availability": [
-      {
-        "id": "sdfdsf-7e32-4c14-dsfds-hthtt-1",
-        "day": "sat",
-        "start": { "hour": 11, "minute": 0 },
-        "end": { "hour": 15, "minute": 0 }
-      },
-      {
-        "id": "sdfdsf-7e32-4c14-dsfds-hthtt-2",
-        "day": "sun",
-        "start": { "hour": 10, "minute": 0 },
-        "end": { "hour": 14, "minute": 30 }
+        "start": {
+          "hour": 17,
+          "minute": 0
+        },
+        "end": {
+          "hour": 19,
+          "minute": 0
+        }
       }
     ]
   }
