@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "name": "???",
+    "name": "유정아",
     "age": 24,
     "gender": "female",
-    "description": "?????! ???",
+    "description": "안녕하세요! 저는…",
     "characteristics": [
-      "??? ???",
-      "???? ???"
+      "차분한 목소리",
+      "반려동물 애호가"
     ],
     "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/female/woman-1.png?raw=true",
     "services": [
