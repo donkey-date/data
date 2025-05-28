@@ -4,10 +4,13 @@
     "name": "유정아",
     "age": 24,
     "gender": "female",
-    "description": "안녕하세요! 저는…",
+    "description": "안녕하세요, 김민재입니다. 여행과 사진 찍는 걸 좋아해서 주말마다 새로운 곳을 탐험하곤 해요. 요즘은 필름 카메라에 푹 빠져 있어요.",
     "characteristics": [
-      "차분한 목소리",
-      "반려동물 애호가"
+      "INFJ",
+      "필름 카메라",
+      "산 좋아함",
+      "인디 음악",
+      "여행 중 메모"
     ],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/0-0.png?raw=true"
@@ -30,11 +33,146 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
-    "city": "seoul",
+    "city": "bucheon",
     "nation": "south korea",
     "availability": [
       {
         "id": "0-0",
+        "day": "mon",
+        "start": {
+          "hour": 17,
+          "minute": 0
+        },
+        "end": {
+          "hour": 19,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "강서연",
+    "age": 32,
+    "gender": "female",
+    "description": "이준호라고 합니다. IT 스타트업에서 개발자로 일하고 있고, 퇴근 후엔 종종 기타를 치거나 맛집 탐방을 즐겨요. 낯은 가리지만 친해지면 말 많아집니다!",
+    "characteristics": [
+      "ISTP",
+      "개발자",
+      "코기 키움",
+      "밤 드라이브",
+      "아메리카노파"
+    ],
+    "imageUrls": [
+      "https://github.com/donkey-date/data/blob/main/img/workers/1-0.png?raw=true"
+    ],
+    "services": [
+      {
+        "id": "1-s0",
+        "meetingType": "inPerson",
+        "pricePerHour": 30000,
+        "currency": "KRW"
+      }
+    ],
+    "location": {
+      "latitude": 37.5665,
+      "longitude": 126.978
+    },
+    "city": "seoul",
+    "nation": "south korea",
+    "availability": [
+      {
+        "id": "1-0",
+        "day": "mon",
+        "start": {
+          "hour": 17,
+          "minute": 0
+        },
+        "end": {
+          "hour": 19,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "윤하은",
+    "age": 20,
+    "gender": "female",
+    "description": "박성우입니다. 말보단 행동이 먼저인 스타일이에요. 운동을 좋아해서 평일엔 헬스장, 주말엔 등산이나 축구하러 나가요.",
+    "characteristics": [
+      "ESTJ",
+      "축구팀 활동",
+      "아침형",
+      "운동 마니아",
+      "매운 거 못 먹음"
+    ],
+    "imageUrls": [
+      "https://github.com/donkey-date/data/blob/main/img/workers/2-0.png?raw=true"
+    ],
+    "services": [
+      {
+        "id": "2-s0",
+        "meetingType": "inPerson",
+        "pricePerHour": 30000,
+        "currency": "KRW"
+      }
+    ],
+    "location": {
+      "latitude": 37.5665,
+      "longitude": 126.978
+    },
+    "city": "hongdae",
+    "nation": "south korea",
+    "availability": [
+      {
+        "id": "2-0",
+        "day": "mon",
+        "start": {
+          "hour": 17,
+          "minute": 0
+        },
+        "end": {
+          "hour": 19,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "김민재",
+    "age": 22,
+    "gender": "male",
+    "description": "안녕하세요! 밝고 긍정적인 에너지가 매력이라고 자주 들어요. 평소엔 독립영화를 자주 보고, 새로운 사람 만나는 걸 좋아해요.",
+    "characteristics": [
+      "ENFP",
+      "즉흥 여행",
+      "드라마 애청자",
+      "폴라로이드 촬영",
+      "선물 잘 고름"
+    ],
+    "imageUrls": [
+      "https://github.com/donkey-date/data/blob/main/img/workers/3-0.png?raw=true"
+    ],
+    "services": [
+      {
+        "id": "3-s0",
+        "meetingType": "inPerson",
+        "pricePerHour": 30000,
+        "currency": "KRW"
+      }
+    ],
+    "location": {
+      "latitude": 37.5665,
+      "longitude": 126.978
+    },
+    "city": "gangdam",
+    "nation": "south korea",
+    "availability": [
+      {
+        "id": "3-0",
         "day": "mon",
         "start": {
           "hour": 17,
