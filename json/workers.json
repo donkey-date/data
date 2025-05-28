@@ -1,10 +1,10 @@
 [
   {
     "id": "0",
-    "name": "유정아",
+    "name": "양현서",
     "age": 24,
     "gender": "female",
-    "description": "안녕하세요, 김민재입니다. 여행과 사진 찍는 걸 좋아해서 주말마다 새로운 곳을 탐험하곤 해요. 요즘은 필름 카메라에 푹 빠져 있어요.",
+    "description": "집순이라서 거의 집에서 하는 활동을 좋아해요! 요즘엔 취미로 홈베이킹에 도전하고 있어요. 또 공포 영화나 스릴러물 보는 걸 즐겨요. \n먹는 걸 좋아해서 가끔씩 혼자 맛집 탐방을 가거나, 밤에 야경을 보면서 한강 런닝을 하기도 합니다!",
     "characteristics": [
       "INFJ",
       "필름 카메라",
@@ -24,8 +24,14 @@
       },
       {
         "id": "0-s1",
+        "meetingType": "video",
+        "pricePerHour": 20000,
+        "currency": "KRW"
+      },
+      {
+        "id": "0-s2",
         "meetingType": "inPerson",
-        "pricePerHour": 30000,
+        "pricePerHour": 40000,
         "currency": "KRW"
       }
     ],
@@ -33,18 +39,42 @@
       "latitude": 37.5665,
       "longitude": 126.978
     },
-    "city": "bucheon",
+    "city": "Hongdae",
     "nation": "south korea",
     "availability": [
       {
         "id": "0-0",
         "day": "mon",
         "start": {
-          "hour": 17,
+          "hour": 12,
           "minute": 0
         },
         "end": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "id": "0-1",
+        "day": "tue",
+        "start": {
+          "hour": 8,
+          "minute": 30
+        },
+        "end": {
           "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "id": "0-2",
+        "day": "fri",
+        "start": {
+          "hour": 11,
+          "minute": 30
+        },
+        "end": {
+          "hour": 21,
           "minute": 0
         }
       }
@@ -80,20 +110,7 @@
     },
     "city": "seoul",
     "nation": "south korea",
-    "availability": [
-      {
-        "id": "1-0",
-        "day": "mon",
-        "start": {
-          "hour": 17,
-          "minute": 0
-        },
-        "end": {
-          "hour": 19,
-          "minute": 0
-        }
-      }
-    ]
+    "availability": []
   },
   {
     "id": "2",
