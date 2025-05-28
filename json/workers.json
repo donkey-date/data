@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "유정아",
     "age": 24,
     "gender": "female",
@@ -9,16 +9,18 @@
       "차분한 목소리",
       "반려동물 애호가"
     ],
-    "imageUrl": "https://github.com/donkey-date/data/blob/main/img/workers/female/woman-1.png?raw=true",
+    "imageUrls": [
+      "https://github.com/donkey-date/data/blob/main/img/workers/0-0.png?raw=true"
+    ],
     "services": [
       {
-        "id": "1-s0",
+        "id": "0-s0",
         "meetingType": "audio",
         "pricePerHour": 15000,
         "currency": "KRW"
       },
       {
-        "id": "1-s1",
+        "id": "0-s1",
         "meetingType": "inPerson",
         "pricePerHour": 30000,
         "currency": "KRW"
@@ -32,7 +34,7 @@
     "nation": "south korea",
     "availability": [
       {
-        "id": "1-0",
+        "id": "0-0",
         "day": "mon",
         "start": {
           "hour": 17,
