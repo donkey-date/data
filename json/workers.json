@@ -23,12 +23,6 @@
         "currency": "KRW"
       },
       {
-        "id": "0-s1",
-        "meetingType": "video",
-        "pricePerHour": 20000,
-        "currency": "KRW"
-      },
-      {
         "id": "0-s2",
         "meetingType": "inPerson",
         "pricePerHour": 40000,
