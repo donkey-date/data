@@ -5,13 +5,7 @@
     "age": 24,
     "gender": "female",
     "description": "집순이라서 거의 집에서 하는 활동을 좋아해요! 요즘엔 취미로 홈베이킹에 도전하고 있어요. 또 공포 영화나 스릴러물 보는 걸 즐겨요. \n먹는 걸 좋아해서 가끔씩 혼자 맛집 탐방을 가거나, 밤에 야경을 보면서 한강 런닝을 하기도 합니다!",
-    "characteristics": [
-      "INFJ",
-      "필름 카메라",
-      "산 좋아함",
-      "인디 음악",
-      "여행 중 메모"
-    ],
+    "characteristics": ["INFJ", "필름 카메라", "산 좋아함", "인디 음악", "여행 중 메모"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/0-0.png?raw=true"
     ],
@@ -35,44 +29,11 @@
     },
     "city": "Hongdae",
     "nation": "south korea",
-    "availability": [
-      {
-        "id": "0-0",
-        "day": "mon",
-        "start": {
-          "hour": 12,
-          "minute": 0
-        },
-        "end": {
-          "hour": 23,
-          "minute": 0
-        }
-      },
-      {
-        "id": "0-1",
-        "day": "tue",
-        "start": {
-          "hour": 8,
-          "minute": 30
-        },
-        "end": {
-          "hour": 19,
-          "minute": 0
-        }
-      },
-      {
-        "id": "0-2",
-        "day": "fri",
-        "start": {
-          "hour": 11,
-          "minute": 30
-        },
-        "end": {
-          "hour": 21,
-          "minute": 0
-        }
-      }
-    ]
+    "availability": {
+      "mon": ["12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00", "20:00", "21:00", "22:00", "23:00"],
+      "tue": ["08:30", "09:30", "10:30", "11:30", "12:30", "13:30", "14:30", "15:30", "16:30", "17:30", "18:30", "19:00"],
+      "fri": ["11:30", "12:30", "13:30", "14:30", "15:30", "16:30", "17:30", "18:30", "19:30", "20:30", "21:00"]
+    }
   },
   {
     "id": "1",
@@ -80,13 +41,7 @@
     "age": 32,
     "gender": "female",
     "description": "이준호라고 합니다. IT 스타트업에서 개발자로 일하고 있고, 퇴근 후엔 종종 기타를 치거나 맛집 탐방을 즐겨요. 낯은 가리지만 친해지면 말 많아집니다!",
-    "characteristics": [
-      "ISTP",
-      "개발자",
-      "코기 키움",
-      "밤 드라이브",
-      "아메리카노파"
-    ],
+    "characteristics": ["ISTP", "개발자", "코기 키움", "밤 드라이브", "아메리카노파"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/1-0.png?raw=true"
     ],
@@ -104,7 +59,7 @@
     },
     "city": "seoul",
     "nation": "south korea",
-    "availability": []
+    "availability": {}
   },
   {
     "id": "2",
@@ -112,13 +67,7 @@
     "age": 20,
     "gender": "female",
     "description": "박성우입니다. 말보단 행동이 먼저인 스타일이에요. 운동을 좋아해서 평일엔 헬스장, 주말엔 등산이나 축구하러 나가요.",
-    "characteristics": [
-      "ESTJ",
-      "축구팀 활동",
-      "아침형",
-      "운동 마니아",
-      "매운 거 못 먹음"
-    ],
+    "characteristics": ["ESTJ", "축구팀 활동", "아침형", "운동 마니아", "매운 거 못 먹음"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/2-0.png?raw=true"
     ],
@@ -136,20 +85,9 @@
     },
     "city": "hongdae",
     "nation": "south korea",
-    "availability": [
-      {
-        "id": "2-0",
-        "day": "mon",
-        "start": {
-          "hour": 17,
-          "minute": 0
-        },
-        "end": {
-          "hour": 19,
-          "minute": 0
-        }
-      }
-    ]
+    "availability": {
+      "mon": ["17:00", "18:00", "19:00"]
+    }
   },
   {
     "id": "3",
@@ -157,13 +95,7 @@
     "age": 22,
     "gender": "male",
     "description": "안녕하세요! 밝고 긍정적인 에너지가 매력이라고 자주 들어요. 평소엔 독립영화를 자주 보고, 새로운 사람 만나는 걸 좋아해요.",
-    "characteristics": [
-      "ENFP",
-      "즉흥 여행",
-      "드라마 애청자",
-      "폴라로이드 촬영",
-      "선물 잘 고름"
-    ],
+    "characteristics": ["ENFP", "즉흥 여행", "드라마 애청자", "폴라로이드 촬영", "선물 잘 고름"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/3-0.png?raw=true"
     ],
@@ -181,19 +113,8 @@
     },
     "city": "gangdam",
     "nation": "south korea",
-    "availability": [
-      {
-        "id": "3-0",
-        "day": "mon",
-        "start": {
-          "hour": 17,
-          "minute": 0
-        },
-        "end": {
-          "hour": 19,
-          "minute": 0
-        }
-      }
-    ]
+    "availability": {
+      "mon": ["17:00", "18:00", "19:00"]
+    }
   }
 ]
