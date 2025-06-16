@@ -5,6 +5,7 @@
     "age": 24,
     "gender": "female",
     "description": "집순이라서 거의 집에서 하는 활동을 좋아해요! 요즘엔 취미로 홈베이킹에 도전하고 있어요. 또 공포 영화나 스릴러물 보는 걸 즐겨요. \n먹는 걸 좋아해서 가끔씩 혼자 맛집 탐방을 가거나, 밤에 야경을 보면서 한강 런닝을 하기도 합니다!",
+    "style": ["감성적인", "조용한", "창의적인", "자유로운", "감각적인"],
     "characteristics": [
       "INFJ",
       "필름 카메라",
@@ -12,6 +13,7 @@
       "인디 음악",
       "여행 중 메모"
     ],
+    "preferences": ["커피", "책 읽기", "영화 감상", "요리", "산책"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/0-0.png?raw=true",
       "https://github.com/donkey-date/data/blob/main/img/workers/0-1.png?raw=true",
@@ -89,13 +91,15 @@
     "age": 32,
     "gender": "female",
     "description": "이준호라고 합니다. IT 스타트업에서 개발자로 일하고 있고, 퇴근 후엔 종종 기타를 치거나 맛집 탐방을 즐겨요. 낯은 가리지만 친해지면 말 많아집니다!",
+    "style": ["감성적인", "조용한", "창의적인", "자유로운", "감각적인"],
     "characteristics": [
-      "ISTP",
-      "개발자",
-      "코기 키움",
-      "밤 드라이브",
-      "아메리카노파"
+      "INFJ",
+      "필름 카메라",
+      "산 좋아함",
+      "인디 음악",
+      "여행 중 메모"
     ],
+    "preferences": ["커피", "책 읽기", "영화 감상", "요리", "산책"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/1-0.png?raw=true",
       "https://github.com/donkey-date/data/blob/main/img/workers/1-1.png?raw=true",
@@ -167,13 +171,15 @@
     "age": 20,
     "gender": "female",
     "description": "박성우입니다. 말보단 행동이 먼저인 스타일이에요. 운동을 좋아해서 평일엔 헬스장, 주말엔 등산이나 축구하러 나가요.",
+    "style": ["감성적인", "조용한", "창의적인", "자유로운", "감각적인"],
     "characteristics": [
-      "ESTJ",
-      "축구팀 활동",
-      "아침형",
-      "운동 마니아",
-      "매운 거 못 먹음"
+      "INFJ",
+      "필름 카메라",
+      "산 좋아함",
+      "인디 음악",
+      "여행 중 메모"
     ],
+    "preferences": ["커피", "책 읽기", "영화 감상", "요리", "산책"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/2-0.png?raw=true",
       "https://github.com/donkey-date/data/blob/main/img/workers/2-1.png?raw=true",
@@ -205,13 +211,15 @@
     "age": 22,
     "gender": "male",
     "description": "안녕하세요! 밝고 긍정적인 에너지가 매력이라고 자주 들어요. 평소엔 독립영화를 자주 보고, 새로운 사람 만나는 걸 좋아해요.",
+    "style": ["감성적인", "조용한", "창의적인", "자유로운", "감각적인"],
     "characteristics": [
-      "ENFP",
-      "즉흥 여행",
-      "드라마 애청자",
-      "폴라로이드 촬영",
-      "선물 잘 고름"
+      "INFJ",
+      "필름 카메라",
+      "산 좋아함",
+      "인디 음악",
+      "여행 중 메모"
     ],
+    "preferences": ["커피", "책 읽기", "영화 감상", "요리", "산책"],
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/3-0.png?raw=true",
       "https://github.com/donkey-date/data/blob/main/img/workers/3-1.png?raw=true",
