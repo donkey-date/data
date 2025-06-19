@@ -5,15 +5,9 @@
     "age": 24,
     "gender": "female",
     "description": "저는 낯가림 없이 밝고 따뜻한 성격으로 유쾌한 대화든 진심 어린 이야기든, 자연스럽고 편안하게 이어갈 수 있는 사람입니다! ",
-    "style": [
-      "저는 단순히 귀엽기보단, 여성스럽고 성숙한 이미지에 더 가까워요. 또렷한 이목구비 덕분인지 승무원이나 아나운서 같다는 말을 종종 듣는 편이에요. 운동을 꾸준히 해서 마른 체형은 아니지만, 건강하고 탄탄한 몸에 자신있어요! 😽"
-    ],
-    "characteristics": [
-      "저는 섬세한 성격으로, 말 한 마디도 가볍게 내뱉지 않으려고 해요. 도파민이 넘치는 자극적인 대화보단 진심이 오가는 대화를 더 좋아해요! 편안함 속에서 은은한 설렘을 주는 사람이 되고 싶어요. 저는 가리는 음식 없이 다 잘 먹고, 친해지면 애교도 조금씩 나오는 편이에요! 🫣"
-    ],
-    "preferences": [
-      "맛집 데이트, 산책, 액티비티 활동 (테마파크, 방탈출 카페), 간단한 반주도 가능합니다!"
-    ],
+    "style": "저는 단순히 귀엽기보단, 여성스럽고 성숙한 이미지에 더 가까워요. 또렷한 이목구비 덕분인지 승무원이나 아나운서 같다는 말을 종종 듣는 편이에요. 운동을 꾸준히 해서 마른 체형은 아니지만, 건강하고 탄탄한 몸에 자신있어요! 😽",
+    "characteristics": "저는 섬세한 성격으로, 말 한 마디도 가볍게 내뱉지 않으려고 해요. 도파민이 넘치는 자극적인 대화보단 진심이 오가는 대화를 더 좋아해요! 편안함 속에서 은은한 설렘을 주는 사람이 되고 싶어요. 저는 가리는 음식 없이 다 잘 먹고, 친해지면 애교도 조금씩 나오는 편이에요! 🫣",
+    "preferences": "맛집 데이트, 산책, 액티비티 활동 (테마파크, 방탈출 카페), 간단한 반주도 가능합니다!",
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/0-0.png?raw=true",
       "https://github.com/donkey-date/data/blob/main/img/workers/0-1.png?raw=true",
@@ -176,11 +170,9 @@
     "age": 20,
     "gender": "female",
     "description": "안녕하세요! 같이 즐거운 시간 만들어가요☺️",
-    "style": ["부드럽고 또렷한 이미지고 웃는 상이에요"],
-    "characteristics": [
-      "잘 웃고 리액션 잘 해요!, 둥근 성격이라 잘 맞춰주고 대화에 집중해요"
-    ],
-    "preferences": ["맛집, 카페, 보드게임카페, 산책"],
+    "style": "부드럽고 또렷한 이미지고 웃는 상이에요",
+    "characteristics": "잘 웃고 리액션 잘 해요!, 둥근 성격이라 잘 맞춰주고 대화에 집중해요",
+    "preferences": "맛집, 카페, 보드게임카페, 산책",
     "imageUrls": [
       "https://github.com/donkey-date/data/blob/main/img/workers/1-0.png?raw=true",
       "https://github.com/donkey-date/data/blob/main/img/workers/1-1.png?raw=true",
